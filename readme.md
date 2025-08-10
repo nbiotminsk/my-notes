@@ -1,4 +1,4 @@
 Для системного администратора 
-- [[windows]]
-- linx
+- [[Windows 11]]
+- linux
 - hardware
