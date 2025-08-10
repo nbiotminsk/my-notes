@@ -1,1 +1,11 @@
-{}
+{
+  "github-sync:github-sync-command": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
+}
