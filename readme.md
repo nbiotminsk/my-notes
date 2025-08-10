@@ -1,4 +1,4 @@
 Для системного администратора 
-- windows
+- [[windows]]
 - linx
 - hardware
