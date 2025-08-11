@@ -1,2 +1,10 @@
-Winget
+Soft Для Вайбкодинга
+	Cursor AI
+	Warp Terminal
+	Gemini CLI
+Плагины VS code
+	 Roo Code
+	 Cline
+	 Kilo Code
+
 
