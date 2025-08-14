@@ -1,0 +1,1 @@
+https://dotcursorrules.com/ - rules, MCP, Cheat Sheet
