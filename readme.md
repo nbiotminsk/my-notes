@@ -58,6 +58,10 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 setup-apps.bat
 ```
 
+Команды проверки пакетов npm
+`npm list -g --depth=0
+`npm audit`
+
 ### ⚠️ Требования:
 - Windows 10/11
 - Права администратора
