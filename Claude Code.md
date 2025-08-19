@@ -1,6 +1,8 @@
 Установка
 > npm install -g @anthropic-ai/claude-code
 
+> npm i -g anthropic-proxy
+
 Установка роутера
 ```
 npm install -g @musistudio/claude-code-router
