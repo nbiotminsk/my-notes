@@ -59,11 +59,20 @@ setup-apps.bat
 ```
 
 Команды проверки пакетов npm
-`npm list -g --depth=0
-`npm audit`
+
+```
+npm list -g --depth=0
+```
+
+```
+npm audit
+```
 
 Обновить пакет:
-`npm update -g @google/gemini-cli`
+
+```
+npm update -g @google/gemini-cli
+```
 ### ⚠️ Требования:
 - Windows 10/11
 - Права администратора
