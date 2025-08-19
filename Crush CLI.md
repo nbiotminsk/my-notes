@@ -6,7 +6,9 @@
 
 Подключение своего провайдера OpenAI находиться по адресу:
 
-`%USERPROFILE%\AppData\Local\crush\crush.json`
+```
+%USERPROFILE%\AppData\Local\crush\crush.json
+```
 
 ```
 {
