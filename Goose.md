@@ -10,3 +10,4 @@ MCP Server Filesystem предоставляет безопасный досту
 ```
 npm install -g @modelcontextprotocol/server-filesystem
 ```
+
