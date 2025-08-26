@@ -47,15 +47,15 @@ mcp-filesystem --root ./your-project --stdio
 - Через конфиг Goose (рекомендуется)
 Создайте/обновите файл конфигурации Goose, например ~/.config/goose/config.json:
 ```
-{`
-`"mcpServers": [`
-`{`
-`"name": "filesystem",`
-`"command": "mcp-filesystem",`
-`"args": ["--root", "/absolute/path/to/your-project", "--stdio"]`
-`}`
-`]`
-`}
+{
+"mcpServers": [
+{
+"name": "filesystem",
+"command": "mcp-filesystem",
+"args": ["--root", "/absolute/path/to/your-project", "--stdio"]
+}
+]
+}
 ```
 Затем запустите Goose:
 goose
