@@ -2,7 +2,7 @@
 Ниже — популярные CMS/движки и генераторы сайтов, которые умеют работать с Markdown (.md) как с источником контента:
 
 Статические генераторы (Markdown — основной формат)
-- Jekyll — классика, GitHub Pages, Liquid-шаблоны.
+- [[Jekyll]] — классика, GitHub Pages, Liquid-шаблоны.
 - Hugo — очень быстрый, удобные таксономии, множество тем.
 - Eleventy (11ty) — гибкий, JavaScript-стек, простая структура.
 - Gatsby — React‑основа, плагин gatsby-transformer-remark/MDX.
