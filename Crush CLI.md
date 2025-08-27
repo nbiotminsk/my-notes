@@ -38,3 +38,5 @@
   }
 ,"models":{"large":{"model":"proger","provider":"ultimateai"}}}
 ```
+
+#cli #ai

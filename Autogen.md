@@ -156,3 +156,7 @@ user.initiate_chat(
 - Для локальных LLM используйте OpenAI‑совместимые эндпойнты (Ollama/vLLM) и указывайте base_url.
 - Ясно задавайте роли через system_message у агентов: это сильно влияет на координацию.
 - Старайтесь формулировать цель, критерии готовности (Definition of Done) и артефакты на выходе (файлы, тесты, метрики).
+
+#ai #framework #microsoft #python
+
+См. также: [[Claude Code]], [[Qwen Code]]

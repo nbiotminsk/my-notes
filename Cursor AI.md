@@ -48,3 +48,7 @@ https://dotcursorrules.com/ - rules, MCP, Cheat Sheet
 2. Найдите нужный набор правил для Python
 3. Скопируйте правила в ваш `.cursorrules` файл
 4. Cursor будет следовать этим правилам при генерации кода
+
+#ai #ide #python
+
+См. также: [[Cline]]

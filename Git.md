@@ -310,3 +310,7 @@ git config --global alias.unstage 'reset HEAD --'
 ---
 
 *Этот файл является частью репозитория заметок. Редактируйте и дополняйте по мере изучения Git!*
+
+#git #version-control
+
+См. также: [[readme.md]]

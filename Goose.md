@@ -93,3 +93,5 @@ mcp-filesystem --root ./your-project --port 8765
 - Проверьте, что переменная PATH содержит папку с глобальными npm бинарями (npm bin -g), чтобы goose и mcp-filesystem находились из терминала.
 
 Коротко: установите Goose и @modelcontextprotocol/server-filesystem, запустите файловый MCP-сервер с --root на ваш проект и подключите его в конфиге Goose через stdio или TCP. После этого Goose сможет читать/создавать/редактировать файлы строго в пределах указанной директории.
+
+#cli #ai #filesystem

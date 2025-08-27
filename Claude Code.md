@@ -39,3 +39,7 @@ ccr code
       }
     
 ```
+
+#ai #cli #anthropic
+
+См. также: [[Autogen]], [[Gemini CLI]]
