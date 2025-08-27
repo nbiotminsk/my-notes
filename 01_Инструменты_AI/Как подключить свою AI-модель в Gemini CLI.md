@@ -29,6 +29,10 @@
 
 Откройте новый терминал и выполните команду:
 
+```
+gemini-cli-bridge
+```
+
 ```bash
 gemini-cli-mcp-openai-bridge --port 8080 --base-url <ВАШ_BASE_URL> --api-key <ВАШ_API_KEY>
 ```
