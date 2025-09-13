@@ -59,8 +59,9 @@ gemini generate -m gemini-1.5-pro -p "Опиши изображение" --image
 gemini generate -m gemini-1.5-pro -p "Расшифруй аудио" --audio ./speech.wav
 gemini generate -m gemini-1.5-pro -p "Опиши видео" --video ./clip.mp4
 
-История и сессии
-- Сохранение/загрузка истории чата (если CLI поддерживает сессии):
+История и сессии (Чекпоинты)
+- В CLI нет флага `--checkpointing`, но его роль выполняет механизм сессий. Он позволяет сохранять и загружать историю диалога.
+- Сохранение/загрузка истории чата:
 gemini chat --session save --name my-session
 gemini chat --session load --name my-session
 gemini chat --session list
